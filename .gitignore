@@ -2,10 +2,11 @@
 __pycache__/
 *.py[codz]
 *$py.class
-
+lancedb/
+lancedb
 # C extensions
 *.so
-
+faiss/
 # Distribution / packaging
 .Python
 build/
